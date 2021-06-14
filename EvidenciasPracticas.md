@@ -1,5 +1,21 @@
 # 0. Lab Setup
 
+![0a](Evidencias/0a.PNG)
+
+
+
+![0b](Evidencias/0b.PNG)
+
+
+
+![0c](Evidencias/0c.PNG)
+
+
+
+
+
+# 1. Data Model
+
 ![1a](Evidencias/1a.PNG)
 
 
@@ -14,27 +30,33 @@
 
 
 
-# 1. Data Model
+![1d](Evidencias/1d.PNG)
 
-![2.DataverseIntro](Evidencias/2.DataverseIntro.png)
 
-![2.DataverseIntro2](Evidencias/2.DataverseIntro2.png)
 
-![2.DataverseIntro3](Evidencias/2.DataverseIntro3.png)
+![1e](Evidencias/1e.PNG)
 
-![2.DataverseIntro4](Evidencias/2.DataverseIntro4.png)
 
-![2.DataverseIntro5](Evidencias/2.DataverseIntro5.png)
 
-![2.DataverseIntro6](Evidencias/2.DataverseIntro6.png)
+![1f](Evidencias/1f.PNG)
 
-![2.DataverseIntro7](Evidencias/2.DataverseIntro7.png)
 
-![2.DataverseIntro9](Evidencias/2.DataverseIntro9.png)
 
-![2.DataverseIntro10](Evidencias/2.DataverseIntro10.png)
+![1g](Evidencias/1g.PNG)
 
-![2.DataverseIntro11](Evidencias/2.DataverseIntro11.png)
+
+
+![1h](Evidencias/1h.PNG)
+
+
+
+![1i](Evidencias/1i.PNG)
+
+
+
+![1j](Evidencias/1j.PNG)
+
+
 
 
 
