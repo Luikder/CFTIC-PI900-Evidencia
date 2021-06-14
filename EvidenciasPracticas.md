@@ -1,8 +1,16 @@
 # 0. Lab Setup
 
-![1.Introducción1](Evidencias/1.Introducción1.png)
+![1a](Evidencias/1a.PNG)
 
-![1.Introducción2](Evidencias/1.Introducción2.png)
+
+
+![1b](Evidencias/1b.PNG)
+
+
+
+![1c](Evidencias/1c.PNG)
+
+
 
 
 
